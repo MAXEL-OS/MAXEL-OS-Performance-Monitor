@@ -22,7 +22,7 @@ class MaxelMonitor:
     def __init__(self, root):
         self.root = root
         self.root.title("MAXEL-OS Resource Monitor")
-        self.root.geometry("450x500")
+        self.root.geometry("550x500")
         self.root.configure(bg="#1e1e2e")
         self.root.resizable(False, False)
 
