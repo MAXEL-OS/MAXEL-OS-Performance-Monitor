@@ -1,3 +1,9 @@
+# --------------------------------------------------------
+# Project: MAXEL-OS Performance Monitor
+# Author: Engineer MAXEL (MHD)
+# Copyright: (c) 2026 Engineer MAXEL. All rights reserved.
+# This code is a part of MAXEL-OS proprietary tools.
+# --------------------------------------------------------
 #!/usr/bin/env python3
 import tkinter as tk
 from tkinter import ttk, messagebox
