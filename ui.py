@@ -1,6 +1,6 @@
 # --------------------------------------------------------
-# PROJECT: MAXEL-OS PERFORMANCE MONITOR
-# AUTHOR: MAXEL-OS DEVELOPER
+# PROJECT: MAXEL-OS
+# AUTHOR: MAXEL-OS 
 # COPYRIGHT: (C) 2026 MAXEL-OS. ALL RIGHTS RESERVED.
 # --------------------------------------------------------
 
